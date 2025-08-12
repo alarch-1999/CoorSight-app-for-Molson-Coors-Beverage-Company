@@ -1,0 +1,5 @@
+echo "streamlit
+pandas
+numpy
+pymupdf
+python-docx" > requirements.txt
