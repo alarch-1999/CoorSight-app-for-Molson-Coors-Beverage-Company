@@ -114,5 +114,3 @@ All team members must complete a  **Participant Release and Confidentiality Agre
 * Intellectual property rights
 * Use of participant likeness
 * Other relevant guidelines
-
-**Link to view site: [https://alarch-1999.github.io/CoorSight-app-for-Molson-Coors-Beverage-Company/](https://alarch-1999.github.io/CoorSight-app-for-Molson-Coors-Beverage-Company/)**
